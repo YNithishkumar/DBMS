@@ -111,3 +111,18 @@ exp17
 exp18
 ![exp18](https://user-images.githubusercontent.com/113018345/191745212-371a6b78-4754-4f27-8318-f9bd93758c22.png)
 
+
+exp19
+[EX_19 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-19.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191777459-e704eae8-00b3-4687-bc5d-0ebba6e6fdb7.png)
+
+
+
+
+exp20
+[EX_20 WORKSHEET](https://github.com/FrankAlwin/CSA0519-DBMS/blob/main/Experiment-20.txt)
+
+![image](https://user-images.githubusercontent.com/113408308/191778210-5cec9bc9-4bfd-4764-b458-93702f4bcf65.png)
+
+
