@@ -11,8 +11,6 @@ exp 2
 ![Screenshot (16)](https://user-images.githubusercontent.com/113018345/191626211-6a6a210c-9e38-4dc9-a563-3ff14cbaec9e.png)![Screenshot (15)](https://user-images.githubusercontent.com/113018345/191626262-51e3a1e6-89ce-404a-a18f-1289c1e4123f.png)
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/113018345/191626231-d73a543e-e903-49a2-b222-13481408821b.png)
-![Screenshot (36)](https://user-images.githubusercontent.com/113018345/191742788-8edc0b38-2faa-4e42-9982-56caf6633194.png)
-
 exp 7
 
 
